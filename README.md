@@ -12,4 +12,9 @@ they make high-quality chocolates.
     1. Travel from Maryville to MCI by Car.
 2. Take flight from MCI to Zurich Airport.
     1. MCI Airport to Newark Liberty International Airport.
-    2. Connecting Flight - Newark Liberty International Airport to Zurich Airport.
+    2. Connecting Flight - Newark Liberty International Airport to Zurich Airport.<br>
+### List of Items that should be carried to Zurich for maximum enjoyment
+* SunGlasses
+* Camera
+* Jacket
+* AirDopes
