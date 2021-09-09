@@ -18,4 +18,16 @@ they make high-quality chocolates.
 * Camera
 * Jacket
 * AirDopes
-![Link to AboutMe](./AboutMe.md) 
+![Link to AboutMe](./AboutMe.md)
+
+---
+
+## My Favorite Food and Drinks
+
+The below table gives information about 4 Food Items and Drinks that I would suggest everyone to try. The approximate price of the Food Items or Drinks is also mentioned in the table.
+| Items | Available at | Price |
+|:------:|:----------:|:------:|
+| CheezeBurster Pizza | PizzaHut | $10 |
+| Chocolate Sizzlers | StarBucks | $5 |
+| Cold Coffee | StarBucks | $5 |
+| Chicken Wings | KFC | $5 |
