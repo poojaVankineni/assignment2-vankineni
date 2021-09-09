@@ -7,7 +7,7 @@ they make high-quality chocolates.
 
 ---
 
-### Directions from Maryville to Zurich
+## Directions from Maryville to Zurich
 1. Maryville to Kansas International Airport (MCI).
     1. Travel from Maryville to MCI by Car.
 2. Take flight from MCI to Zurich Airport.
@@ -18,3 +18,4 @@ they make high-quality chocolates.
 * Camera
 * Jacket
 * AirDopes
+![Link to AboutMe](./AboutMe.md) 
