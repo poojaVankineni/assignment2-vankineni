@@ -18,7 +18,7 @@ they make high-quality chocolates.
 * Camera
 * Jacket
 * AirDopes
-![Link to AboutMe](./AboutMe.md)
+[Link to AboutMe](./AboutMe.md)
 
 ---
 
@@ -31,3 +31,8 @@ The below table gives information about 4 Food Items and Drinks that I would sug
 | Chocolate Sizzlers | StarBucks | $5 |
 | Cold Coffee | StarBucks | $5 |
 | Chicken Wings | KFC | $5 |
+---
+## Pithy Quotes  
+> Don't cry because it's over. Smile because it happened. — *Dr. Seuss*.   
+
+> Everything is hard before it is easy. —*Johann Wolfgang von Goethe*
